@@ -14,18 +14,11 @@ This project performs sentiment analysis on airline customer tweets using NLP an
 ## How to Run
 
 1. Clone the repo:
-bash
-git clone https://github.com/yourusername/sentiment-analysis
-cd sentiment-analysis
-Install dependencies:
+   git clone https://github.com/yourusername/sentiment-analysis
+   cd sentiment-analysis
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the notebook or script:
+2. Install dependencies:
+   pip install -r requirements.txt
 
-bash
-Copy
-Edit
-python sentiment_analysis.py
+3. Run the notebook or script:
+   python sentiment_analysis.py
